@@ -21,27 +21,15 @@
       "id": 4
     },
     {
-      "title": "I created this stream",
-      "description": "this is created by me",
-      "userId": "108803650561980340872",
-      "id": 5
-    },
-    {
-      "title": "second from kuei",
-      "description": "This change was made by PATCH request",
-      "userId": "108803650561980340872",
-      "id": 6
-    },
-    {
-      "title": "programmatic navigation",
-      "description": "japhelec",
-      "userId": "108803650561980340872",
-      "id": 7
-    },
-    {
       "title": "This stream is about to refactoring",
       "description": "Yo notice it",
       "id": 8
+    },
+    {
+      "title": "I have a pen",
+      "description": "I have an apple  yoyo",
+      "userId": "108803650561980340872",
+      "id": 9
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "streams": [
+    {
+      "title": "asdas",
+      "description": "asda",
+      "id": 1
+    },
+    {
+      "title": "asdas",
+      "description": "asda",
+      "id": 2
+    },
+    {
+      "title": "asdas",
+      "description": "asda",
+      "id": 3
+    },
+    {
+      "title": "s",
+      "description": "s",
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "this is created by me",
+      "userId": "108803650561980340872",
+      "id": 5
+    },
+    {
+      "title": "second from kuei",
+      "description": "This change was made by PATCH request",
+      "userId": "108803650561980340872",
+      "id": 6
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "japhelec",
+      "userId": "108803650561980340872",
+      "id": 7
+    },
+    {
+      "title": "This stream is about to refactoring",
+      "description": "Yo notice it",
+      "id": 8
+    }
+  ]
+}

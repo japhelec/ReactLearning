@@ -6,8 +6,6 @@ import LanguageSelector from "./LanguageSelector.js"
 
 class App extends React.Component{
     
-    
-
     render(){
         return (
             <div className="ui container">

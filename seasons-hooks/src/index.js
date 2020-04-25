@@ -3,8 +3,8 @@ import ReactDOM from "react-dom"
 import SeasonDisplay from "./SeasonDisplay.js"
 import Spinner from "./Spinner.js"
 
-const App =()=>{
-   
+
+const InitData = ()=> {
     const [ lat,setLat ] = useState(null)
     const [ errorMessage,setErr ] = useState("")
     
@@ -20,6 +20,12 @@ const App =()=>{
             )
         },[]
     )
+    return {lat,errorMessage}
+}
+
+const App =()=>{
+   
+    const {lat,errorMessage} = InitData()    
 
     const renderContent = () => {
         if (lat && !errorMessage){
@@ -33,8 +39,6 @@ const App =()=>{
         }
     }
 
-
-    
     return (
     <div>
         {renderContent()}
